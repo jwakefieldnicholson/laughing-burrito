@@ -1,4 +1,4 @@
-# kozodoi.me: Blog on AI, ML and other cool acronyms
+# nicholson.fyi: Blog on AI, ML and other cool acronyms
 
 ![website_snippet](https://i.postimg.cc/4yLPcHcf/ezgif-com-gif-maker-2.gif)
 
@@ -6,8 +6,7 @@
 
 # Summary
 
-This repo stores implements my website available at https://kozodoi.me
-
+This repo stores implements my website available at https://nicholson.fyi
 The website includes:
 - 📜 [my ML blog](https://kozodoi.me/blog/) with tutorials, competition solutions and project findings
 - 📁 [my portfolio](https://kozodoi.me/portfolio/) with ML projects on different topics
@@ -21,21 +20,21 @@ The website includes:
 
 # Implementation 
 
-The website is implemented in GitHub Pages using Jekyll with Minima layout. This repo contains all relevant files and codes required to deploy the website and link it to a custom domain at https://kozodoi.me.
+The website is implemented in GitHub Pages using Jekyll with Minima layout. This repo contains all relevant files and codes required to deploy the website and link it to a custom domain at https://nicholson.fyi.
 
 The blog posts and website pages are coded in one of the three formats: `html` files,`ipynb` notebooks,  or `md` markdown pages. The notebooks and markdown posts are converted to `html` with GitHub actions with help of [fastpages](https://github.com/fastai/fastpages), which allows publishing blog posts as Jupyter notebooks. 
 
 The website includes several customizations, including:
 - the dark/light theme toggle
 - site-wide search
-- customly designed menu pages
+- custom designed menu pages
 - dynamic layout changes depending on the screen size. 
 
 ---
 
 # Contact
 
-Would like to have a chat? <a href="mailto:n.kozodoi@icloud.com">Click here</a> to send me an e-mail.
+Would like to have a chat? <a href="mailto:n.justinnicholson@icloud.com">Click here</a> to send me an e-mail.
 
 I am happy to connect on different social and professional platforms. Click the badges below to see my profile.
 

@@ -16,17 +16,17 @@ permalink: /about/
   </div>
 </div>
 
-<p><span class="page-desc">Click <a href="https://kozodoi.me/cv.pdf">here</a> to download my CV and check out <a href="https://kozodoi.me/portfolio/">my portfolio</a> to see my work.</span></p>
+<p><span class="page-desc">Click <a href="https://nicholson.fyi/cv.pdf">here</a> to download my CV and check out <a href="https://nicholson.fyi/portfolio/">my portfolio</a> to see my work.</span></p>
 
 
 <!----------------------------------------------------------------------------->
 ## About me
 
-I am Applied ML Scientist working on the frontier of research and business. With PhD in ML and certified AWS expertise, rich experience in diverse areas of ML, and strong communication and public talking skills, I am passionate about using AI to solve challenging business problems and create value. 
+I am Applied ML Scientist working on the frontier of research and intelligence. With PhD in International Relations and certified AWS expertise, rich experience in diverse areas of ML, and strong communication and public speaking skills, I am passionate about using AI to solve challenging defense problems and create value. 
 
-Currently, I work at AWS, where I design and build cutting-edge Generative AI and ML solutions to solve diverse business problems across industries. My team interacts with large-scale customers to identify, design, build and deploy high-value custom and reusable AI use cases. Before AWS, I completed my PhD at the Humboldt University of Berlin, where I worked on ML applications for credit risk analytics in collaboration with Monedo.
+Currently, I work at Intellibridge, where I design and build cutting-edge Generative AI and ML solutions to solve diverse business problems across U.S. Government clients. My team interacts with large-scale customers to identify, design, build and deploy high-value custom and reusable AI use cases. Before IB, I completed my PhD at the University of Rochester, where I worked on Econometrics and ML applications in the international conflict and nuclear proliferation spaces.
 
-In my free time, I enjoy playing beach volleyball and challenging myself in ML competitions. 
+In my free time, I enjoy diving, skiing, and weightlifting competitively.
 
 <button class="btn" onclick="window.open('https://kozodoi.me/cv.pdf')"><i class="fas fa-download"></i>  Curriculum Vitae</button>
 
